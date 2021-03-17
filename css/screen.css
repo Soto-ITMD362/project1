@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
+
+html{
+  font-family: 'Shippori Mincho', Georgia, "Times New Roman",serif;
+  font-size: 1.125em;
+  background: #808080;
+}
+
+header{
+	font-family: 'Shippori Mincho', Georgia, "Times New Roman",serif;
+	font-size: 1.125em;
+	text-align: center;
+}
+
+form{
+  border: transparent;
+}
+
+label {
+  display: block;
+  padding-bottom: 0.25em;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 1em;
+}
+
