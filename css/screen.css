@@ -31,30 +31,30 @@ input {
   overflow: visible;
   margin-bottom: 1em;
   margin-top: 1em;
-  background: #30D5C8;
 }
 
 #finish {
   margin-bottom: 1em;
+  background-image: linear-gradient(to right, #FFFDD0, #D5B85A);
 }
 
 #wrap input[type="text"] {
-  border-color: #FFFFFF;
+  border-color: transparent;
   background-color: #808080;
 }
 
 #wrap input[type="email"] {
-  border-color: #FFFFFF;
+  border-color: transparent;
   background-color: #808080;
 }
 
 #wrap input[type="date"] {
-  border-color: #FFFFFF;
+  border-color: transparent;
   background-color: #808080;
 }
 
 #wrap input[type="number"] {
-  border-color: #FFFFFF;
+  border-color: transparent;
   background-color: #808080;
 }
 
