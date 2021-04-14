@@ -110,6 +110,7 @@ input {
     text-align: center;
     justify-content: center;
   }
+}
 
 @media screen and (min-width: 50em) {
   #wrap {
@@ -122,3 +123,4 @@ input {
     text-align: center;
     justify-content: center;
   }
+}
