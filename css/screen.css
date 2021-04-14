@@ -99,7 +99,6 @@ input {
     justify-content: center;
   }
   header#logo {
-    float: center;
     font size: 100%;
   }
 }
@@ -116,7 +115,6 @@ input {
     justify-content: center;
   }
   header#logo {
-    float: center;
     font size: 75%;
 }
 
@@ -132,6 +130,5 @@ input {
     justify-content: center;
   }
   header#logo {
-    float: center;
     font size: 100%;
 }
